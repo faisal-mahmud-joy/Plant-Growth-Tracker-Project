@@ -1,0 +1,7 @@
+Date,Plant Name,Height (cm),Notes
+2025-02-01,Rose,10,Healthy growth
+2025-02-05,Rose,12,New leaves appeared
+2025-02-10,Rose,15,Buds forming
+2025-02-01,Sunflower,8,Planted from seeds
+2025-02-06,Sunflower,14,First true leaves
+2025-02-12,Sunflower,20,Strong stem observed
